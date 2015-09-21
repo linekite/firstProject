@@ -1,0 +1,8 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Standar.master" AutoEventWireup="true" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="Server" />
+</asp:Content>
+<asp:Content ID="MainlaceHolder1" ContentPlaceHolderID="MainlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="MainlaceHolder" runat="Server" />
+</asp:Content>
